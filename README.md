@@ -1,1 +1,1 @@
-# 06_git_github
+# Clase 6 — Git
