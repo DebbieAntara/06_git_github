@@ -1,8 +1,5 @@
 Pikachu A
 Es un enanito gordo y tiene cara de gato.
-<<<<<<< Updated upstream
 Creo que querían que sea un humano enano. Pero lo hicieron aun más feo.
 Es de color de amarillo y tiene orejas de gato.
-=======
 Creo que querían que sea un humano enano. Pero lo hicieron aun más feo.
->>>>>>> Stashed changes
